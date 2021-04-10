@@ -27,7 +27,7 @@
                 android:id="@+id/imageView2"
                 android:layout_width="68dp"
                 android:layout_height="match_parent"
-                android:background="#331D5A"
+                android:background="#FBFBFB"
                 app:srcCompat="@drawable/logo" />
 
             <LinearLayout
@@ -40,6 +40,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="#00BCD4"
+                    android:fontFamily="sans-serif"
                     android:paddingLeft="10dp"
                     android:text="TextView"
                     android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
@@ -48,12 +49,14 @@
                     android:id="@+id/name"
                     android:layout_width="match_parent"
                     android:layout_height="36dp"
-                    android:background="#673AB7"
+                    android:background="#D81B60"
+                    android:fontFamily="sans-serif-black"
                     android:paddingLeft="10dp"
                     android:shadowColor="#3A3939"
                     android:text="TextView"
                     android:textAppearance="@style/TextAppearance.AppCompat.Large"
-                    android:textColor="#FFFFFF" />
+                    android:textColor="#FFFFFF"
+                    android:textColorHighlight="#CAC3C3" />
 
             </LinearLayout>
         </LinearLayout>
@@ -76,7 +79,7 @@
             android:text="Record"
             android:textColor="#FFFFFF"
             android:textSize="24sp"
-            app:backgroundTint="#7CB342"
+            app:backgroundTint="#C0CA33"
             app:strokeColor="#FFFFFF" />
 
     </LinearLayout>
