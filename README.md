@@ -12,7 +12,7 @@
  1) Implementation (Android app) : The users gives the input in the audio format, chunking of input is done, then the input is passed through the speech-to-text module where every chunk/sentence is converted to text which predict the sentiments and dynamic graph is created for each and every line. So that a person can easily come to know in what way he/she is talking. With the help of the sentyector one can easily analysize and look after how a person needs to be handled and what kind of speech one can use. The application is useful for quickly gaining insights using large volumes of data.   
  2) Dashboard (web app) : he whole data is saved on server so if person has consulted by psychiatrist whole data presented to psychiatrist with a Good-Visualization. For this we have developed a Dashboard where psychiatrist can see records of patient using a unique key provided by the patient .
 
-<img src="https://user-images.githubusercontent.com/56452820/114285374-45a11300-9a74-11eb-8847-014ccfd90f6d.png" height="250px" width="150"/><img src="https://user-images.githubusercontent.com/56452820/114285423-a7fa1380-9a74-11eb-95e7-5c129ef28bc5.png" height="250px" width="150"/>
+<img src="https://user-images.githubusercontent.com/56452820/114285374-45a11300-9a74-11eb-8847-014ccfd90f6d.png" height="250px" width="150"/> -- <img src="https://user-images.githubusercontent.com/56452820/114285423-a7fa1380-9a74-11eb-95e7-5c129ef28bc5.png" height="250px" width="150"/>
 
 
 ## Technology Stack:
