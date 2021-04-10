@@ -25,7 +25,7 @@
 
 ## Contributors:
 
-Team Name: OP Squad
+Team Name: Creator's Squad
 
 * [Vaibhav Arora](https://github.com/vaibhavarora102)
 * [Hargun](https://github.com/hkaur008)
