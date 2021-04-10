@@ -13,6 +13,7 @@
  2) Dashboard (web app) : he whole data is saved on server so if person has consulted by psychiatrist whole data presented to psychiatrist with a Good-Visualization. For this we have developed a Dashboard where psychiatrist can see records of patient using a unique key provided by the patient .
 
 <img src="https://user-images.githubusercontent.com/56452820/114285374-45a11300-9a74-11eb-8847-014ccfd90f6d.png" height="250px" width="150"/>
+<img src="https://user-images.githubusercontent.com/56452820/114285423-a7fa1380-9a74-11eb-95e7-5c129ef28bc5.png" height="250px" width="150"/>
 
 
 ## Technology Stack:
