@@ -14,7 +14,8 @@
 <img src="https://user-images.githubusercontent.com/56452820/114285507-4ab29200-9a75-11eb-8ec9-10133fda0e65.png" height="300px" width="600px"/>
   
 
-<img src="https://user-images.githubusercontent.com/56452820/114285374-45a11300-9a74-11eb-8847-014ccfd90f6d.png" height="250px" width="150"/> -- <img src="https://user-images.githubusercontent.com/56452820/114285423-a7fa1380-9a74-11eb-95e7-5c129ef28bc5.png" height="250px" width="150"/> -- <img src="https://user-images.githubusercontent.com/56452820/114285470-1f2fa780-9a75-11eb-82df-324d22d63d9e.png" height="250px" width="150"/>
+<img src="https://user-images.githubusercontent.com/56452820/114285374-45a11300-9a74-11eb-8847-014ccfd90f6d.png" height="250px" width="150"/> -- <img src="https://user-images.githubusercontent.com/56452820/114285423-a7fa1380-9a74-11eb-95e7-5c129ef28bc5.png" height="250px" width="150"/> -- <img src="https://user-images.githubusercontent.com/56452820/114285470-1f2fa780-9a75-11eb-82df-324d22d63d9e.png" height="250px" width="250"/> --
+<img "https://user-images.githubusercontent.com/56452820/114285535-88171f80-9a75-11eb-8227-96db600bc155.png" height="250px" width="250"/>
 
 
 ## Technology Stack:
