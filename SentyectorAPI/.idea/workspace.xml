@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e5f17280-f41d-473e-93ce-acb39f02976c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SentyectorAPI/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/SentyectorAPI/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SentyectorAPI/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/SentyectorAPI/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +26,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -72,11 +70,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618041279685</updated>
-      <workItem from="1618041290708" duration="2254000" />
+      <workItem from="1618041290708" duration="3005000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="343" y="102" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1618048426498">
+      <screen x="0" y="0" width="1140" height="601" />
+    </state>
+    <state x="343" y="102" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1140.601@0.0.1140.601" timestamp="1618048426498" />
+    <state x="349" y="55" key="FileChooserDialogImpl" timestamp="1618048852034">
+      <screen x="0" y="0" width="1140" height="601" />
+    </state>
+    <state x="349" y="55" key="FileChooserDialogImpl/0.0.1140.601@0.0.1140.601" timestamp="1618048852034" />
   </component>
 </project>
