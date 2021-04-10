@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5f17280-f41d-473e-93ce-acb39f02976c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SentyectorAPI/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/SentyectorAPI/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="e5f17280-f41d-473e-93ce-acb39f02976c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1qyA6O3hqzqHcU9sVBcsnWTnTMk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -26,7 +23,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -71,6 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1618041279685</updated>
       <workItem from="1618041290708" duration="3005000" />
+      <workItem from="1618051485476" duration="2129000" />
     </task>
     <servers />
   </component>
