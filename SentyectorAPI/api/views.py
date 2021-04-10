@@ -94,3 +94,26 @@ def audiototext(request):
         response = speechToTextModule()
         res = {'text': response}
         return JsonResponse(res, safe=False)
+
+
+from sklearn.externals import joblib
+from string import digits
+
+model = joblib.load(open('model.pkl','rb'))
+def remove_digits(s: str) -> str:
+    remove_digits = str.maketrans('', '', digits)
+    res = s.translate(remove_digits)
+    return res
+
+@csrf_exempt
+def predemotions(request):
+    if (request.method == 'POST'):
+        json_data = request.body  # coming data
+        stream = io.BytesIO(json_data)  # created io(input/output) stream
+        textopredict = JSONParser().parse(stream)  # converted JSON to Python Data
+
+        textopredict=textopredict['textopredict']
+        textopredict = remove_digits(textopredict)
+        pred = model.predict([textopredict])
+        pred = {'prediction': pred[0]}
+        return JsonResponse(pred, safe=False)

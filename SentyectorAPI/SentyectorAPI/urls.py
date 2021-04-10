@@ -18,5 +18,6 @@ from django.urls import path
 from api import views
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/audiochunktotext/',views.audiototext)
+    path('api/audiochunktotext/',views.audiototext),
+    path('api/predemotions/',views.predemotions)
 ]
